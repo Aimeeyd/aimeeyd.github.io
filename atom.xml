@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aimeeyd的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://aimeeyd.github.io/"/>
+  <updated>2019-03-18T15:25:18.329Z</updated>
+  <id>https://aimeeyd.github.io/</id>
+  
+  <author>
+    <name>Aimeeyd</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>产品经理之路</title>
+    <link href="https://aimeeyd.github.io/p/6870/"/>
+    <id>https://aimeeyd.github.io/p/6870/</id>
+    <published>2019-03-18T15:24:38.000Z</published>
+    <updated>2019-03-18T15:25:18.329Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>根本就没有路，只是走的人多了，兄die</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;根本就没有路，只是走的人多了，兄die&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
